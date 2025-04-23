@@ -17,10 +17,11 @@ nav_order: 5
     
 [Tatum Rask](https://sites.google.com/view/tatumrask) - MS in 2022 and PhD expected in 2025
     
-Jacob Cleveland - MS defended Fall 2024
 
 
 ### Past Graduate Students
+
+Jacob Cleveland - MS Spring 2025
 
 [Alex McCleary](https://www.alexmccleary.org/) - PhD in 2021
 
