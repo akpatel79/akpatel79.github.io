@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Associate Professor (tenured) of Mathematics transitioning from academia to industry | Translating complex systems into clear decisions
+subtitle: Tenured Associate Professor transitioning from academia to industry
 
 profile:
   align: right
@@ -18,33 +18,36 @@ selected_papers: false
 social: true
 ---
 
-I am a tenured Associate Professor of Mathematics at Colorado State University, now deliberately transitioning from academia to industry.
+I am a tenured Associate Professor of Mathematics at Colorado State University, now deliberately transitioning into industry roles where rigorous systems thinking and clear technical communication drive decisions.
 
-For over a decade, I have built and organized complex mathematical frameworks in algebraic topology, combinatorics, and homological algebra. But my real strength — and what I am now pursuing full-time — is translating intricate technical systems into clear conceptual structures that help people reason, decide, and act.
+For over a decade, I have built and organized complex mathematical frameworks across pure and applied domains, often working at a high level of abstraction. My strongest contribution — and what I am now pursuing full-time — is translating intricate technical systems into clear conceptual structures that enable people to reason, decide, and act.
 
 I excel at:
-- Clarifying abstract systems and hidden structure  
-- Turning dense technical material into accessible explanations  
-- Aligning diverse audiences around shared conceptual frameworks  
-- Writing and speaking with precision and structure  
+
+- Clarifying abstract systems and underlying structure
+- Translating dense technical material into accessible explanations
+- Aligning diverse stakeholders around shared conceptual frameworks
+- Writing and speaking with precision and structure
+
+**I am not leaving mathematics — I am bringing mathematical thinking into industry.**  
 
 ### Example: Making Difficult Ideas Clear
 
 This summer I gave an invited talk at the Institute for Mathematical and Statistical Innovation (IMSI) in Chicago on *Möbius homology*, based on our recent paper (with Primoz Škraba) in the *Transactions of the American Mathematical Society*.
 
-The challenge was not just proving results, but organizing the ideas so that even those unfamiliar with Möbius inversion could see the structure clearly.
+The challenge was not just proving results, but organizing abstract ideas so that even those unfamiliar with Möbius inversion could clearly see the underlying structure and why it mattered.
 
 Full video:
 https://lnkd.in/gXagpw5y
 
 ### What I’m Seeking
 
-I am exploring industry roles that sit between technical depth and decision-making, including:
+I am exploring roles that sit between technical depth and decision-making, including:
 
-- Solutions / Field Engineering  
 - Technical Program Management (technical track)  
+- Solutions / Field Engineering  
 - Technical writing, research communication, or developer education  
 - AI/ML-adjacent roles involving structured reasoning and explanation  
-- Technical liaison roles in government or defense  
+- Government / defense liaison roles 
 
-I bring rigorous analytical thinking, systems-level abstraction, and a strong ability to communicate complex ideas across audiences.
+I bring rigorous analytical thinking, systems-level abstraction, and the ability to communicate complex ideas clearly across technical and nontechnical audiences.
