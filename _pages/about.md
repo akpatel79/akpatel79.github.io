@@ -10,7 +10,7 @@ profile:
   image_circular: false
   address: >
     <p>Fort Collins, CO</p>
-    <p>Open to relocation / remote</p>
+    <p>Open to relocation</p>
 
 news: false
 latest_posts: false
