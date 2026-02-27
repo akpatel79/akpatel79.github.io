@@ -8,15 +8,14 @@ nav_order: 5
 ---
 
 
-### Current Postdocs
-[Alex Elchesen](https://www.alexelchesen.com/)
-
 
 
 ### Current Graduate Students
     
-[Tatum Rask](https://sites.google.com/view/tatumrask) - MS in 2022 and PhD expected in 2025
+[Tatum Rask](https://sites.google.com/view/tatumrask) - MS in 2022 and PhD expected in May 2026
     
+### Past Postdocs
+[Alex Elchesen](https://www.alexelchesen.com/)
 
 
 ### Past Graduate Students
@@ -39,6 +38,10 @@ Amethyst Price - BS 2019
 
 | Year    |  Semester | Course    |   Credit Hours | Enrollment | Total  | 
 | ------- | ----------|-----------|----------------|------------|--------|
+| 2025 | Fall | M230 – Intro to Mathematical Reasoning | 3 | 28 | 84 |
+| 2025 | Fall | M571 – Topology II | 3 | 9 | 27 |
+| 2025 | Spring | M235 – Intro to Mathematical Reasoning | 2 | 29 | 58 |
+| 2025 | Spring | M570 – Topology I | 3 | 6 | 18 |
 | 2024    | Fall | M472 - Introduction to Topology | 3 | 10 | 30
 | 2024    | Spring | M571 - Topology II | 3 | 12 | 36
 | 2023    | Fall | DSCI369 - Linear Algebra for Data Science | 4 | 120 | 480

@@ -23,7 +23,6 @@ I am a tenured Associate Professor of Mathematics at Colorado State University, 
 For over a decade, I have built and organized complex mathematical frameworks across pure and applied domains, often working at a high level of abstraction. My strongest contribution — and what I am now pursuing full-time — is translating intricate technical systems into clear conceptual structures that enable people to reason, decide, and act.
 
 I excel at:
-
 - Clarifying abstract systems and underlying structure
 - Translating dense technical material into accessible explanations
 - Aligning diverse stakeholders around shared conceptual frameworks
@@ -38,12 +37,11 @@ This summer I gave an invited talk at the Institute for Mathematical and Statist
 The challenge was not just proving results, but organizing abstract ideas so that even those unfamiliar with Möbius inversion could clearly see the underlying structure and why it mattered.
 
 Full video:
-https://lnkd.in/gXagpw5y
+https://www.imsi.institute/videos/mobius-homology/
 
 ### What I’m Seeking
 
 I am exploring roles that sit between technical depth and decision-making, including:
-
 - Technical Program Management (technical track)  
 - Solutions / Field Engineering  
 - Technical writing, research communication, or developer education  
