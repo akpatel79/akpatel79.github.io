@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://akpatel79.hithub.io/sitemap.xml
+Sitemap: https://akpatel.org/sitemap.xml
