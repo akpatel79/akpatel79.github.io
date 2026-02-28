@@ -15,7 +15,7 @@ nav_order: 5
 [Tatum Rask](https://sites.google.com/view/tatumrask) - MS in 2022 and PhD expected in May 2026
     
 ### Past Postdocs
-[Alex Elchesen](https://www.alexelchesen.com/)
+[Alex Elchesen (2022-2025)](https://www.alexelchesen.com/)
 
 
 ### Past Graduate Students
